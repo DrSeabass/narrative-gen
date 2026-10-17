@@ -1,0 +1,6 @@
+# Downloaded papers: keep locally, don't publish
+survey/inputs/*
+!survey/inputs/.gitkeep
+
+# Obsidian per-user state
+.obsidian/workspace*.json
