@@ -14,6 +14,7 @@ Decisions (research questions, scope, inclusion criteria, outputs, conventions) 
 - [ ] Set up tooling
   - [ ] Markdown table for coding sources in `survey/coding.md` (see 1.6)
 - [ ] Pick seed papers per field (see 1.2) and snowball backwards/forwards
+- [ ] Pre-survey: draft notes and build `survey/reading_list.md` following [`survey/triage_notes.md`](survey/triage_notes.md)
 
 ### 1.2 Academic fields to cover
 
