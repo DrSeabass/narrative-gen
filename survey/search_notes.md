@@ -65,7 +65,7 @@ The seed list is in `ToDo.md` §1.2. Those citations were written from memory: *
 
 ## What to produce for each source
 
-1. **Bib entry** in `solo_ttrpg.bib`
+1. **Bib entry**: in `solo_ttrpg_recovered.bib` if you confirmed the metadata from an authoritative source; otherwise in `solo_ttrpg_believed.bib` with a `note` saying where the lead came from
    - Citekey: `firstauthorYEARfirstword`, lowercase (skip "a", "an", "the").
    - `keywords` = field tags from the table above.
    - Include a DOI or URL.
@@ -79,7 +79,7 @@ The seed list is in `ToDo.md` §1.2. Those citations were written from memory: *
 
 - Never invent or "fill in" a citation. If you cannot confirm a detail from the source itself or a publisher/indexing page, leave it out and flag it.
 - Prefer the published version over a preprint. Note the preprint URL if that is all there is.
-- Check `solo_ttrpg.bib` and `survey/notes/` for duplicates before adding.
+- Check both `.bib` files and `survey/notes/` for duplicates before adding. If a believed entry gets confirmed, move it to the recovered file.
 - For commercial products, record whether the product still exists and the date you checked.
 - If a source doesn't fit any field tag, add it anyway and flag it. It may mean the taxonomy needs a new field.
 

@@ -50,7 +50,8 @@ The repository is used as an Obsidian vault: notes are plain markdown linked wit
 
 | What | Where | Convention |
 |---|---|---|
-| Bibliography | [`../solo_ttrpg.bib`](../solo_ttrpg.bib) | Citekey `firstauthorYEARfirstword`; `keywords` = field tags. See the comment block at the top. |
+| Bibliography: recovered | [`../solo_ttrpg_recovered.bib`](../solo_ttrpg_recovered.bib) | Metadata confirmed from an authoritative web source (PDF not required). Cite only from here. Citekey `firstauthorYEARfirstword`; `keywords` = field tags. |
+| Bibliography: believed | [`../solo_ttrpg_believed.bib`](../solo_ttrpg_believed.bib) | Sources we think exist but haven't confirmed. Move to recovered once confirmed. |
 | Source notes | `notes/<citekey>.md` | Copy [`notes/_template.md`](notes/_template.md). File name = citekey. |
 | Coding table | [`coding.md`](coding.md) | One row per source, one column per coding dimension (ToDo §1.6). |
 | Downloaded papers | `inputs/<citekey>_<title-slug>.pdf` | Title slug: lowercase, hyphenated, about 8 words. Git-ignored. Never commit PDFs. |

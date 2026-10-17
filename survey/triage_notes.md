@@ -23,7 +23,8 @@ This is a pre-survey. Nothing here replaces reading the paper. Drafted notes kee
 | Input | Use |
 |---|---|
 | `inputs/*.pdf` | Sources to triage. Name gives the citekey (`<citekey>_<title-slug>.pdf`). |
-| [`../solo_ttrpg.bib`](../solo_ttrpg.bib) | Verified metadata. Prefer it over anything extracted from the PDF. |
+| [`../solo_ttrpg_recovered.bib`](../solo_ttrpg_recovered.bib) | Verified metadata. Prefer it over anything extracted from the PDF. |
+| [`../solo_ttrpg_believed.bib`](../solo_ttrpg_believed.bib) | Unconfirmed leads. Don't triage these; list them under Gaps in the reading list. |
 | [`../ToDo.md`](../ToDo.md) §1.2 | Seed list. Sources that are verified but have no PDF (paywalled, books) still get a note. |
 | `notes/` | Existing notes. See "Don't overwrite" below. |
 

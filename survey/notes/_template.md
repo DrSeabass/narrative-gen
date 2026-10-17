@@ -1,6 +1,6 @@
 ---
 # Name the file after the citekey, e.g. riedl2010narrative.md
-# Citekey format: firstauthorYEARfirstword (lowercase, matches solo_ttrpg.bib)
+# Citekey format: firstauthorYEARfirstword (lowercase, matches solo_ttrpg_recovered.bib)
 citekey: "{{title}}"
 title: ""
 authors: []
