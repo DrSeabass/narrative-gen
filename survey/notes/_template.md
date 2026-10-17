@@ -12,7 +12,9 @@ kind:                    # academic | non-academic | commercial
 type:                    # paper | book | thesis | blog | talk | product | game
 fields: []               # from ToDo 1.2-1.4, e.g. [narrative-planning, llm-ttrpg]
 historical: false        # true if pre-2000 and included as historically important
-status: to-read          # to-read | read | coded
+status: to-read          # to-obtain | to-read | read | coded
+priority:                # P1 read closely | P2 read | P3 skim | P4 reference only (see triage_notes.md)
+drafted_by:              # agent if pre-populated; clear once a human has checked the note
 added: "{{date}}"
 
 # Coding (ToDo 1.6). Copy into survey/coding.md once status is coded.

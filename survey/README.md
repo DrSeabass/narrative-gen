@@ -55,3 +55,4 @@ The repository is used as an Obsidian vault: notes are plain markdown linked wit
 | Coding table | [`coding.md`](coding.md) | One row per source, one column per coding dimension (ToDo §1.6). |
 | Downloaded papers | `inputs/<citekey>_<title-slug>.pdf` | Title slug: lowercase, hyphenated, about 8 words. Git-ignored. Never commit PDFs. |
 | Search brief | [`search_notes.md`](search_notes.md) | Where to look, queries, field tags, rules, query log. |
+| Triage brief | [`triage_notes.md`](triage_notes.md) | Pre-populating notes and prioritising; produces [`reading_list.md`](reading_list.md). |
