@@ -8,21 +8,12 @@ mission statement — **assistant** to a solo GM, **automated player** (playtest
 
 ### 1.1 Set up the review
 
-- [x] Decide the review's research questions
-  - Academic focus is computer science. "Fun" is out of scope for now because it is hard to measure; revisit later.
-  - RQ1: How have story and narrative been modelled computationally, and which models suit planning?
-  - RQ2: What AI support exists today for solo play, GMing, and playtesting (research and products)?
-  - RQ3: How have "believable narrative", "good story", "good characterization", and "good adventure" been evaluated?
-  - RQ4: Where are the gaps that planning, NLP, or both together could fill?
-- [x] Decide on the review style: scoping/narrative (seed papers + snowballing).
+Decisions (research questions, scope, inclusion criteria, outputs, conventions) are in
+[`survey/README.md`](survey/README.md).
+
 - [ ] Set up tooling
-  - [x] `.bib` in repo (`solo_ttrpg.bib`): citekey `firstauthorYEARfirstword`; per-field collections via the `keywords` field, using the same tags as notes' `fields:`. Contains a mock `doe2025example` entry as a template example.
-  - [x] One notes file per source in `survey/notes/` using a common template (`survey/notes/_template.md`; file name = citekey)
   - [ ] Markdown table for coding sources in `survey/coding.md` (see 1.6)
-- [x] Define inclusion/exclusion criteria (2000+ and historically relevant papers, English only. Story & Narrative gen alone in scope, TTRPG + RPG + Interactive Fiction Preferred)
-- [x] List search venues and databases (see 1.5)
 - [ ] Pick seed papers per field (see 1.2) and snowball backwards/forwards
-- [x] Decide on the output: internal notes + a survey paper. Assume obsidian vaults (use linked markdown in this repository)
 
 ### 1.2 Academic fields to cover
 
@@ -52,7 +43,7 @@ Seed sources marked *(verify)* came from memory; check citations before relying 
 - [ ] **Procedural content generation** — quest, dungeon, and adventure generation
 - [ ] **Game studies on TTRPGs** — Fine, *Shared Fantasy* (1983); *Analog Game Studies*; *International Journal of Role-Playing*; Knutepunkt books
 - [ ] **Narratology** — Propp, Ryan, Bal; what a "story" is, to ground the modelling
-- [ ] ~~**Theories of fun and game design**~~ — deferred (see 1.1). Koster, *A Theory of Fun*, already read; MDA framework (Hunicke, LeBlanc & Zubek) if revisited.
+- [ ] ~~**Theories of fun and game design**~~ — deferred (see [`survey/README.md`](survey/README.md)). Koster, *A Theory of Fun*, already read; MDA framework (Hunicke, LeBlanc & Zubek) if revisited.
 
 ### 1.3 Non-academic writing
 
@@ -75,7 +66,7 @@ Build a catalogue, one entry per product: what it does, which role it plays, tec
 
 ### 1.5 Where to search
 
-- [x] Databases, venues, commercial sources, queries, and output rules are in [`survey/search_notes.md`](survey/search_notes.md). Hand that file to an agent as input for searches.
+See [`survey/search_notes.md`](survey/search_notes.md).
 
 ### 1.6 Coding scheme (apply to every source)
 
@@ -89,9 +80,3 @@ Record codes as a markdown table in `survey/coding.md`: one row per source, one 
   - **Evaluation**: none, computational metrics, user study, expert review; what "good" meant
   - **Planning hook / NLP hook**: where each field could contribute
 
-### 1.7 Open questions to discuss
-
-- [x] How wide should the review go? Answered by the inclusion criteria in 1.1.
-- [ ] Should LLM work be its own strand, or a technique spread across the others?
-- [ ] Who does the review: solo, or a student project (fits the "attract students" goal)?
-- [ ] How do we measure "fun" well enough to compare systems? (Deferred; outside the current CS focus.)
