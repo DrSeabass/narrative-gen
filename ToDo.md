@@ -59,8 +59,8 @@ field's tag in `keywords`. Sources appear under their main field; see the bib fo
 
 - [ ] **GM craft** — Laws, *Robin's Laws of Good Game Mastering* and *Hamlet's Hit Points* (beat analysis, which fits planning well); Justin Alexander / The Alexandrian (node-based scenario design, the Three Clue Rule); Sly Flourish (*Return of the Lazy Dungeon Master*); The Angry GM
 - [ ] **RPG theory** — the Forge (GNS, Ron Edwards), Story Games forum archives, the Nordic larp tradition
-- [ ] **Solo play community** — r/Solo_Roleplaying, solo-play blogs and YouTube actual plays, community guides to oracle use
-- [ ] **Narrative design writing** — Emily Short's blog, GDC narrative summit talks
+- [ ] **Solo play community** — r/Solo_Roleplaying, solo-play blogs and articles, written actual-play reports, community guides to oracle use
+- [ ] **Narrative design writing** — Emily Short's blog, other narrative design blogs and articles (e.g. Game Developer articles; Kate Compton, "So you want to build a generator…")
 - [ ] **Community attitudes to generative AI** — publisher policies (e.g. DriveThruRPG AI labelling, the Wizards of the Coast art controversies), creator backlash. This affects how the work will be received and should shape how it is positioned.
 
 ### 1.4 Commercial landscape

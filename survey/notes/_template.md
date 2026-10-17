@@ -9,7 +9,7 @@ venue: ""
 url: ""
 pdf: ""                  # relative path in survey/inputs/ (local only, not committed)
 kind:                    # academic | non-academic | commercial
-type:                    # paper | book | thesis | blog | talk | product | game
+type:                    # paper | book | thesis | blog | article | product | game
 fields: []               # from ToDo 1.2-1.4, e.g. [narrative-planning, llm-ttrpg]
 historical: false        # true if pre-2000 and included as historically important
 status: to-read          # to-obtain | to-read | read | coded
