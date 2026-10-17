@@ -1,6 +1,6 @@
 # Mission Statement
     * Understand how story aligns with modeling and planning
-    * Understand tha landscape around AI in solo-rpgs
+    * Understand the landscape around AI in solo-rpgs
         * Commercially
         * Academic Research
     * Identify research opportunities that might attract students across planning and NLP
