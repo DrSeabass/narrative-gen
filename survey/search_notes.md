@@ -56,6 +56,7 @@ Use these as starting queries. Combine with "tabletop", "role-playing", "TTRPG",
 | `mixed-initiative` | Co-creative systems | "mixed-initiative" creativity, "co-creative" storytelling |
 | `narrative-cognition` | Suspense, surprise, comprehension | "suspense" narrative generation, "narrative comprehension" model |
 | `pcg` | Procedural content generation | "quest generation", "procedural content generation" adventure |
+| `game-studies` | Game studies on TTRPGs (use sparingly; focus is CS) | "tabletop role-playing" ethnography, "role-playing games" social |
 
 The field tags are the values used in note frontmatter (`fields:`) and in `.bib` `keywords`.
 
