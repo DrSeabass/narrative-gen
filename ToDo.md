@@ -13,13 +13,16 @@ Decisions (research questions, scope, inclusion criteria, outputs, conventions) 
 
 - [ ] Set up tooling
   - [ ] Markdown table for coding sources in `survey/coding.md` (see 1.6)
-- [ ] Find seed papers for the fields in 1.2 marked **needs seeds**
+- [ ] Find seed papers for automated playtesting (the only field in 1.2 still marked **needs seeds**)
 - [ ] Snowball one step backwards/forwards from the seeds (see [`survey/search_notes.md`](survey/search_notes.md))
 - [ ] Obtain sources with no PDF (notes get `status: to-obtain`)
   - [ ] `porteous2010applying`: download in a browser from https://research.tees.ac.uk/files/5954785/118625.pdf (blocks curl)
   - [ ] `cheong2008narrative`, `cheong2015suspenser`: paywalled; library access
+  - [ ] `hendrikx2013procedural`: paywalled; library access
+  - [ ] `short2019procedural`: book; library
 - [ ] Confirm or drop the leads in `solo_ttrpg_believed.bib`
-- [ ] Record the 2026-10-17 seed verification in the query log in `survey/search_notes.md`
+  - Start with the most relevant: `jorgensen2025tbd` (GM AI for solo role-playing), and the planning-based quest work `soaresdelima2022procedural` and `li2010offline`
+- [ ] Record the 2026-10-17 seed verification (incl. PCG) in the query log in `survey/search_notes.md`
 - [ ] Pre-survey: draft notes and build `survey/reading_list.md` following [`survey/triage_notes.md`](survey/triage_notes.md). Can run now on the verified seeds; rerun after snowballing.
 
 ### 1.2 Academic fields to cover
@@ -46,7 +49,9 @@ field's tag in `keywords`. Sources appear under their main field; see the bib fo
 - [ ] **Cognitive and affective models of narrative** (`narrative-cognition`) — suspense, surprise, and comprehension
   - Seeds: [[cheong2006computational]], [[cheong2008narrative]], [[cheong2015suspenser]], [[cardonarivera2012indexter]]
 - [ ] **Procedural content generation** (`pcg`) — quest, dungeon, and adventure generation
-  - **Needs seeds.** [[yannakakis2018artificial]] covers PCG and may help find them.
+  - Maps: [[shaker2016procedural]], [[togelius2011searchbased]], [[hendrikx2013procedural]], [[summerville2018procedural]], [[maleki2024procedural]]
+  - Quests and adventures: [[cheong2016planning]], [[doran2011prototype]], [[breault2021let]], [[soaresdelima2019procedural]], [[dormans2010adventures]], [[shaker2016constructive]], [[vanderlinden2014procedural]], [[ammanabrolu2020toward]], [[ammanabrolu2020bringing]]
+  - Methods and craft: [[smith2011answer]] (ASP), [[short2019procedural]]
 - [ ] ~~**Narratology and story craft**~~ — deferred (see [`survey/README.md`](survey/README.md)). Targets when revisited: Vonnegut's shapes of stories, Campbell's monomyth, Snyder's *Save the Cat*, and the other classic treatises on story craft (e.g. Aristotle's *Poetics*, Freytag's pyramid, Propp's *Morphology of the Folktale*, Vogler's *The Writer's Journey*, McKee's *Story*, Truby's *The Anatomy of Story*).
 - [ ] ~~**Theories of fun and game design**~~ — deferred (see [`survey/README.md`](survey/README.md)). Koster, *A Theory of Fun*, already read; MDA framework (Hunicke, LeBlanc & Zubek) if revisited.
 
