@@ -18,6 +18,8 @@ Then find where planning and NLP each have something to contribute.
 
 The academic focus is computer science, especially automated planning and NLP.
 "Fun" is out of scope for now because it is hard to measure; revisit later.
+Narratology and classic story-craft writing (Vonnegut, the monomyth, *Save the Cat*, etc.)
+are also deferred; targets are listed in `ToDo.md` §1.2.
 
 ## Research questions
 
@@ -37,7 +39,7 @@ snowball backwards (references) and forwards (citing papers). Search procedure i
 - English only.
 - Published 2000 or later, **or** historically important regardless of date (heavily cited, or foundational to a surveyed field). Mark these `historical: true` in the note.
 - General story and narrative generation is in scope. Work on TTRPGs, RPGs, and interactive fiction is preferred.
-- Out of scope for now: theories of fun and work that is mainly about measuring fun.
+- Out of scope for now: theories of fun and work that is mainly about measuring fun; narratology and story-craft treatises.
 
 ## Outputs
 

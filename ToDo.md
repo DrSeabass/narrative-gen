@@ -47,8 +47,7 @@ field's tag in `keywords`. Sources appear under their main field; see the bib fo
   - Seeds: [[cheong2006computational]], [[cheong2008narrative]], [[cheong2015suspenser]], [[cardonarivera2012indexter]]
 - [ ] **Procedural content generation** (`pcg`) — quest, dungeon, and adventure generation
   - **Needs seeds.** [[yannakakis2018artificial]] covers PCG and may help find them.
-- [ ] **Narratology** — Propp, Ryan, Bal; what a "story" is, to ground the modelling
-  - **Needs seeds**, and no field tag yet.
+- [ ] ~~**Narratology and story craft**~~ — deferred (see [`survey/README.md`](survey/README.md)). Targets when revisited: Vonnegut's shapes of stories, Campbell's monomyth, Snyder's *Save the Cat*, and the other classic treatises on story craft (e.g. Aristotle's *Poetics*, Freytag's pyramid, Propp's *Morphology of the Folktale*, Vogler's *The Writer's Journey*, McKee's *Story*, Truby's *The Anatomy of Story*).
 - [ ] ~~**Theories of fun and game design**~~ — deferred (see [`survey/README.md`](survey/README.md)). Koster, *A Theory of Fun*, already read; MDA framework (Hunicke, LeBlanc & Zubek) if revisited.
 
 ### 1.3 Non-academic writing
