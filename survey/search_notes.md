@@ -1,31 +1,10 @@
 # Search Notes
 
-Brief for anyone (human or agent) searching for sources for the survey in `ToDo.md` §1.
-Read this whole file before searching.
+Brief for anyone (human or agent) searching for sources for the survey.
 
-## Goal
-
-Map what exists on AI for solo tabletop role-playing games (TTRPGs) across three roles:
-
-- **Assistant**: tools that help a solo player act as their own game master (GM)
-- **Automated player**: agents that play games, e.g. to playtest new systems
-- **Automated GM**: systems that run or generate adventures
-
-The academic focus is computer science, especially automated planning and NLP.
-
-### Research questions
-
-- **RQ1**: How have story and narrative been modelled computationally, and which models suit planning?
-- **RQ2**: What AI support exists today for solo play, GMing, and playtesting (research and products)?
-- **RQ3**: How have "believable narrative", "good story", "good characterization", and "good adventure" been evaluated?
-- **RQ4**: Where are the gaps that planning, NLP, or both together could fill?
-
-## Inclusion criteria
-
-- English only.
-- Published 2000 or later, **or** historically important regardless of date (heavily cited, or foundational to a field below). Mark these `historical: true`.
-- General story and narrative generation is in scope. Work on TTRPGs, RPGs, and interactive fiction is preferred.
-- Out of scope for now: theories of fun and work that is mainly about measuring fun.
+**Read [`README.md`](README.md) (the survey protocol) first.** It defines the goal,
+research questions, focus, and inclusion criteria that this brief assumes.
+Then read this whole file before searching.
 
 ## Where to look
 
@@ -93,7 +72,7 @@ The seed list is in `ToDo.md` §1.2. Those citations were written from memory: *
 2. **Note** at `survey/notes/<citekey>.md`, copied from `survey/notes/_template.md`.
    - Fill the frontmatter. Set `status: to-read` unless the full text was actually read.
    - Write the Summary from the abstract at minimum. Leave other sections blank rather than guessing.
-3. **PDF** (if freely and legally available) in `survey/inputs/<citekey>.pdf`. This folder is git-ignored; never commit PDFs.
+3. **PDF** (if freely and legally available) in `survey/inputs/<citekey>_<title-slug>.pdf` (title slug: lowercase, hyphenated, about 8 words; e.g. `riedl2010narrative_narrative-planning-balancing-plot-and-character.pdf`). This folder is git-ignored; never commit PDFs.
 4. **Log the search** in the query log below.
 
 ## Rules
