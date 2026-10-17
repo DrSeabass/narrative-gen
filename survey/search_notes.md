@@ -62,7 +62,7 @@ The field tags are the values used in note frontmatter (`fields:`) and in `.bib`
 
 ### Seed papers
 
-The seed list is in `ToDo.md` §1.2. Those citations were written from memory: **verify each one** (authors, title, venue, year) before adding it. Then snowball one step backwards (its references) and one step forwards (papers citing it) and apply the inclusion criteria.
+Verified seeds are the entries in `solo_ttrpg_recovered.bib`; `ToDo.md` §1.2 lists them by field and flags fields that still **need seeds**. Snowball one step backwards (a seed's references) and one step forwards (papers citing it) and apply the inclusion criteria. New finds go in `solo_ttrpg_believed.bib` until their metadata is confirmed.
 
 ## What to produce for each source
 
