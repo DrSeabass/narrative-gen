@@ -23,7 +23,7 @@ Decisions (research questions, scope, inclusion criteria, outputs, conventions) 
 - [ ] Confirm or drop the leads in `solo_ttrpg_believed.bib`
   - Start with the most relevant: `jorgensen2025tbd` (GM AI for solo role-playing), and the planning-based quest work `soaresdelima2022procedural` and `li2010offline`
 - [ ] Record the 2026-10-17 seed verification (incl. PCG) in the query log in `survey/search_notes.md`
-- [ ] Pre-survey: draft notes and build `survey/reading_list.md` following [`survey/triage_notes.md`](survey/triage_notes.md). Can run now on the verified seeds; rerun after snowballing.
+- [ ] Pre-survey: draft notes and build `survey/reading_list.md` following [`survey/triage_notes.md`](survey/triage_notes.md), using the prompts in [`survey/prompts/pre_survey_triage.md`](survey/prompts/pre_survey_triage.md). Can run now on the verified seeds; rerun after snowballing.
 
 ### 1.2 Academic fields to cover
 
